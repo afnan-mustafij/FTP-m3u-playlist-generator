@@ -2,7 +2,7 @@
 
 A desktop application that helps you create M3U playlists from FTP media servers. This tool allows you to search for movies and TV series across FTP directories and generate organized playlists for your media player.
 
-****WARNING****
+##****WARNING****
 Ignore Flase Windows defender Flag
 
 ## Features
@@ -57,14 +57,6 @@ python FTP_m3u_Generator.py
 5. Choose where to save your playlist
 6. Click "Generate Playlist"
 7. Open the generated .m3u file with your favorite media player
-
-## Building the Executable
-
-To build the standalone executable:
-
-```bash
-python -m PyInstaller --onefile --windowed --icon=m3u_generator_icon.ico FTP_m3u_Generator.py
-```
 
 ## License
 
