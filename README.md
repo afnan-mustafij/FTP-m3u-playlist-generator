@@ -3,7 +3,7 @@
 A desktop application that helps you create M3U playlists from FTP media servers. This tool allows you to search for movies and TV series across FTP directories and generate organized playlists for your media player.
 
 ****WARNING****
-Ignore Flase Windown defender Flag
+Ignore Flase Windows defender Flag
 
 ## Features
 
